@@ -1,7 +1,7 @@
 name: MAKE CHANGE DAILY
 favicon: null
-layout_spectrum: 0.017573693534359336
-typography_spectrum: 0.09101715381257236
+layout_spectrum: 1
+typography_spectrum: 0.75833
 cta:
   domain: null
   bucket: null
